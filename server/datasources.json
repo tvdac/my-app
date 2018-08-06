@@ -12,7 +12,7 @@
   "mysql": {
     "host": "localhost",
     "port": 3306,
-    "url": "",
+    "url": "mysql://risuq5pk1a9of6gd:kjl8gual9jjyu82d@a5s42n4idx9husyc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/lkro42onhyc2uphl",
     "database": "demo",
     "password": "",
     "name": "mysql",
