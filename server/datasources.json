@@ -10,13 +10,13 @@
     "connector": "mysql"
   },
   "mysql": {
-    "host": "localhost",
+    "host": "a5s42n4idx9husyc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "port": 3306,
     "url": "mysql://risuq5pk1a9of6gd:kjl8gual9jjyu82d@a5s42n4idx9husyc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/lkro42onhyc2uphl",
-    "database": "demo",
-    "password": "",
+    "database": "lkro42onhyc2uphl",
+    "password": "kjl8gual9jjyu82d",
     "name": "mysql",
-    "user": "root",
+    "user": "risuq5pk1a9of6gd",
     "connector": "mysql"
   }
 }
