@@ -1,0 +1,22 @@
+{
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "new_app",
+    "password": "",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
+  },
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "url": "",
+    "database": "demo",
+    "password": "",
+    "name": "mysql",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
